@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/juanFajardoUPTC/App/issues"
   },
-  "homepage": "https://github.com/juanFajardoUPTC/App#readme"
+  "homepage": "https://github.com/juanFajardoUPTC/App#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
 }
